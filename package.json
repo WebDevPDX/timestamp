@@ -1,0 +1,14 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "Full Stack JavaScript app that is functionally similar to this: https://timestamp-ms.herokuapp.com/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Falk Schwiefert",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
